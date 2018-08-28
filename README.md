@@ -1,4 +1,5 @@
-# Pothole-Detector
+# Impulse
+
 The android app service detects the potholes using accelerometer 
 and sends it to the server and is fetched back and shown to all users on a map view
 
